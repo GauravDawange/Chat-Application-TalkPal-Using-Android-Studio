@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534630294322",
+    "project_id": "talk-pal-443e8",
+    "storage_bucket": "talk-pal-443e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534630294322:android:c27d8ffa0c31e7eaeeed2b",
+        "android_client_info": {
+          "package_name": "com.GN.talkpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTvFx1GLq3OZnVCRWgY2_M0sJ39chYGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534630294322:android:e6792635364fb721eeed2b",
+        "android_client_info": {
+          "package_name": "com.example.talkpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTvFx1GLq3OZnVCRWgY2_M0sJ39chYGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
