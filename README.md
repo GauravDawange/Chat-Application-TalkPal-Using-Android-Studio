@@ -1,0 +1,1 @@
+Talkpal is a Java-based chat application developed in Android Studio, designed to provide a seamless and user-friendly messaging experience. The application supports text messaging, media sharing, and real-time notifications. It aims to connect users globally with a secure and reliable communication platform
